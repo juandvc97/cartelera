@@ -1,0 +1,70 @@
+ParentContainer,Name,FirstName,LastName,Office,Title,Description,Department ,Company,City,State,UserPassword,SamAccountName,UserPrincipalName,DisplayName
+JVargas.local/cala/Administracion,Teresa Vich,Teresa,Vich,Administracion,Administracion,Inform tica,Dep administracion,Cala,Palma,New York,123qweASD,tvich,tvich@JVargas.local,Teresa Vich
+JVargas.local/cala/Administracion,Pere Mut,Pere,Mut,Administracion,Administracion,Inform tica,Dep administracion,Cala,Palma,Balears,123qweASD,pmut,pmut@JVargas.local,Pere Mut
+JVargas.local/cala/Administracion,Laura Amoros,Laura,Amoros,Administracion,Administracion,Inform tica,Dep administracion,Cala,Palma,Balears,123qweASD,lamoros,lamoros@JVargas.local,Laura Amoros
+JVargas.local/cala/Administracion,Jessica Gemstone,Jessica,Gemstone,Administracion,Administracion,Inform tica,Dep administracion,Cala,Palma,Balears,123qweASD,jgemstone,jgemstone@JVargas.local,Jessica Gemstone
+JVargas.local/cala/Administracion,Toni Vicens,Toni,Vicens,Administracion,Administracion,Inform tica,Dep administracion,Cala,Palma,Balears,123qweASD,tvicens,tcvicents@JVargas.local,Toni Vicens
+JVargas.local/cala/Administracion,Adrian Aguado,Adrian,Aguado,Administracion,Administracion,Inform tica,Dep administracion,Cala,Palma,Balears,123qweASD,aaguado,aaguado@JVargas.local,Adrian Aguado
+JVargas.local/cala/Administracion,Cloe Sanz,Cloe,Sanz,Administracion,Administracion,Inform tica,Dep administracion,Cala,Palma,Balears,123qweASD,csanz,csanz@JVargas.local,Cloe Sanz
+JVargas.local/cala/Administracion,Angela Vives,Angela,Vives,Administracion,Administracion,Inform tica,Dep administracion,Cala,Palma,Balears,123qweASD,avives,avives@JVargas.local,Angela Vives
+JVargas.local/cala/Administracion,Josep Guitar,Josep,Guitar,Administracion,Administracion,Inform tica,Dep administracion,Cala,Palma,Balears,123qweASD,jguitar,jguitar@JVargas.local,Josep Guitar
+JVargas.local/cala/Administracion,Carmen Garcia,Carmen,Garcia,Administracion,Administracion,Inform tica,Dep administracion,Cala,Palma,Balears,123qweASD,cgarcia,cgarcia@JVargas.local,Carmen Garcia
+JVargas.local/cala/Administracion,Maria Antonia Perez,Maria Antonia,Perez,Administracion,Administracion,Inform tica,Dep administracion,Cala,Palma,Balears,123qweASD,mperez,mperez@JVargas.local,Maria Antonia Perez
+JVargas.local/cala/Administracion,Tomas Cespedes,Tomas,Cespedes,Administracion,Administracion,Inform tica,Dep administracion,Cala,Palma,Balears,123qweASD,tcespedes,tcespedes@JVargas.local,Tomas Cespedes
+JVargas.local/cala/Contabilidad,Mario Cespedes,Mario,Cespedes,Contabilidad,Contable,Inform tica,Dep Contable,Cala,Palma,Balears,123qweASD,mcespedes,mcespedes@JVargas.local,Mario Cespedes
+JVargas.local/cala/Contabilidad,Kylie Llull,Kylie,Llull,Contabilidad,Contable,Inform tica,Dep Contable,Cala,Palma,Balears,123qweASD,kllull,kllull@JVargas.local,Kylie Llull
+JVargas.local/cala/Contabilidad,Alejandra Martinez,Alejandra,Martinez,Contabilidad,Contable,Inform tica,Dep Contable,Cala,Palma,Balears,123qweASD,amartinez,amartinez@JVargas.local,Alejandra Martinez
+JVargas.local/cala/Contabilidad,Agustin Bruguera,Agustin,Bruguera,Contabilidad,Contable,Inform tica,Dep Contable,Cala,Palma,Balears,123qweASD,abruguera,abruguera@JVargas.local,Agustin Bruguera
+JVargas.local/cala/Contabilidad,Alejandro Lopez,Alejandro,Lopez,Contabilidad,Contable,Inform tica,Dep Contable,Cala,Palma,Balears,123qweASD,alopez,alopez@JVargas.local,Alejandro Lopez
+JVargas.local/cala/Contabilidad,Mercedes Vilchez,Mercedes,Vilchez,Contabilidad,Contable,Inform tica,Dep Contable,Cala,Palma,Balears,123qweASD,mvilchez,mvilchez@JVargas.local,Mercedes Vilchez
+JVargas.local/cala/Contabilidad,Ruben Mas,Ruben,Mas,Contabilidad,Contable,Inform tica,Dep Contable,Cala,Palma,Balears,123qweASD,rmas,rmas@JVargas.local,Ruben Mas
+JVargas.local/cala/Contabilidad,Candi Espasa,Candi,Espasa,Contabilidad,Contable,Inform tica,Dep Contable,Cala,Palma,Balears,123qweASD,cespasa,cespasa@JVargas.local,Candi Espasa
+JVargas.local/cala/Contabilidad,Raul Dosrius,Raul,Dosrius,Contabilidad,Contable,Inform tica,Dep Contable,Cala,Palma,Balears,123qweASD,rdosrius,rdosrius@JVargas.local,Raul Dosrius
+JVargas.local/cala/Contabilidad,Connor Guardiola,Connor,Guardiola,Contabilidad,Contable,Inform tica,Dep Contable,Cala,Palma,Balears,123qweASD,cguardiola,cguardiola@JVargas.local,Connor Guardiola
+JVargas.local/cala/Contabilidad,Pau Gispert,Pau,Gispert,Contabilidad,Contable,Inform tica,Dep Contable,Cala,Inca,Balears,123qweASD,pgispert,pgispert@JVargas.local,Pau Gispert
+JVargas.local/cala/Contabilidad,Antonio Sartorius,Antonio,Sartorius,Contabilidad,Contable,Inform tica,Dep Contable,Cala,Inca,Balears,123qweASD,asartorius,asartorius@JVargas.local,Antonio Sartorius
+JVargas.local/cala/Impagos,Trevor Barcel¢,Trevor,Barcel¢,Impagos,Agente Impagos,Inform tica,Dep Impagos,Cala,Inca,Balears,123qweASD,tbarcel¢,tbarcel¢@JVargas.local,Trevor Barcel¢
+JVargas.local/cala/Impagos,Daniel Domecq,Daniel,Domecq,Impagos,Agente Impagos,Inform tica,Dep Impagos,Cala,Inca,Balears,123qweASD,ddomecq,ddomecq@JVargas.local,Daniel Domecq
+JVargas.local/cala/Impagos,Martin Adell,Martin,Adell,Impagos,Agente Impagos,Catalan,Dep Impagos,Cala,Inca,Balears,123qweASD,madell,madell@JVargas.local,Martin Adell
+JVargas.local/cala/Impagos,Andres Boyer,Andres,Boyer,Impagos,Agente Impagos,Catalan,Dep Impagos,Cala,Inca,Balears,123qweASD,aboyer,aboyer@JVargas.local,Andres Boyer
+JVargas.local/cala/Impagos,Alberto Camacho,Alberto,Camacho,Impagos,Agente Impagos,Catalan,Dep Impagos,Cala,Inca,Balears,123qweASD,acamacho,acamacho@JVargas.local,Alberto Camacho
+JVargas.local/cala/Impagos,Jesus Cigala,Jesus,Cigala,Impagos,Agente Impagos,Catalan,Dep Impagos,Cala,Inca,Balears,123qweASD,jcigala,jcigala@JVargas.local,Jesus Cigala
+JVargas.local/cala/Impagos,Anna Lara,Anna,Lara,Impagos,Agente Impagos,Catalan,Dep Impagos,Cala,Inca,Balears,123qweASD,alara,alara@JVargas.local,Anna Lara
+JVargas.local/cala/Impagos,Fernando Rincon,Fernando,Rincon,Impagos,Agente Impagos,Catalan,Dep Impagos,Cala,Inca,Balears,123qweASD,frincon,frincon@JVargas.local,Fernando Rincon
+JVargas.local/cala/Impagos,Jacobo Cervantes,Jacobo,Cervantes,Impagos,Agente Impagos,Catalan,Dep Impagos,Cala,Inca,Balears,123qweASD,jcervantes,jcervantes@JVargas.local,Jacobo Cervantes
+JVargas.local/cala/Impagos,Madison Acosta,Madison,Acosta,Impagos,Agente Impagos,Catalan,Dep Impagos,Cala,Inca,Balears,123qweASD,macosta,macosta@JVargas.local,Madison Acosta
+JVargas.local/cala/Impagos,Kylie Adalid,Kylie,Adalid,Impagos,Agente Impagos,Catalan,Dep Impagos,Cala,Inca,Balears,123qweASD,kadalid,kadalid@JVargas.local,Kylie Adalid
+JVargas.local/cala/Impagos,Fernando Abella,Fernando,Abella,Impagos,Agente Impagos,Catalan,Dep Impagos,Cala,Inca,Balears,123qweASD,fabella,fabella@JVargas.local,Fernando Abella
+JVargas.local/cala/Ingenieria,Francesc Barber,Francesc,Barber,Ingenieria,Ingeniero,Catalan,Dep Ingenieria,Cala,Manacor,Mexico DF,123qweASD,fbarber,fbarber@JVargas.local,Francesc Barber
+JVargas.local/cala/Ingenieria,Emma Bagur,Emma,Bagur,Ingenieria,Ingeniero,Catalan,Dep Ingenieria,Cala,Manacor,Mexico DF,123qweASD,ebagur,ebagur@JVargas.local,Emma Bagur
+JVargas.local/cala/Ingenieria,Luis Clos,Luis,Clos,Ingenieria,Ingeniero,Catalan,Dep Ingenieria,Cala,Manacor,Mexico DF,123qweASD,lclos,lclos@JVargas.local,Luis Clos
+JVargas.local/cala/Ingenieria,Andrea Domenech,Andrea,Domenech,Ingenieria,Ingeniero,Ingles,Dep Ingenieria,Cala,Manacor,Mexico DF,123qweASD,adomenech,adomenech@JVargas.local,Andrea Domenech
+JVargas.local/cala/Ingenieria,Catalina Claramunt,Catalina,Claramunt,Ingenieria,Ingeniero,Ingles,Dep Ingenieria,Cala,Manacor,Mexico DF,123qweASD,cclaramunt,cclaramunt@JVargas.local,Catalina Claramunt
+JVargas.local/cala/Ingenieria,Helios Mouth,Helios,Mouth,Ingenieria,Ingeniero,Ingles,Dep Ingenieria,Cala,Manacor,Mexico DF,123qweASD,hmouth,hmouth@JVargas.local,Helios Mouth
+JVargas.local/cala/Ingenieria,Juana Nail,Juana,Nail,Ingenieria,Ingeniero,Ingles,Dep Ingenieria,Cala,Manacor,Mexico DF,123qweASD,jnail,jnail@JVargas.local,Juana Nail
+JVargas.local/cala/Ingenieria,Margarita Casals,Margarita,Casals,Ingenieria,Ingeniero,Castellano,Dep Ingenieria,Cala,Manacor,Mexico DF,123qweASD,mcasals,mcasals@JVargas.local,Margarita Casals
+JVargas.local/cala/Ingenieria,Brenda Carbonell,Brenda,Carbonell,Ingenieria,Ingeniero,Castellano,Dep Ingenieria,Cala,Manacor,Mexico DF,123qweASD,bcarbonell,bcarbonell@JVargas.local,Brenda Carbonell
+JVargas.local/cala/Ingenieria,Juan Company,Juan,Company,Ingenieria,Ingeniero,Castellano,Dep Ingenieria,Cala,Paris,Francia,123qweASD,jcompany,jcompany@JVargas.local,Juan Company
+JVargas.local/cala/Ingenieria,Marta Sanchez,Marta,Sanchez,Ingenieria,Ingeniero,Castellano,Dep Ingenieria,Cala,Paris,Francia,123qweASD,msanchez,msanchez@JVargas.local,Marta Sanchez
+JVargas.local/cala/Ingenieria,Logan Cervera,Logan,Cervera,Ingenieria,Ingeniero,Castellano,Dep Ingenieria,Cala,Paris,Francia,123qweASD,lcervera,lcervera@JVargas.local,Logan Cervera
+JVargas.local/cala/Publicidad,Maria Luisa Ripoll,Maria Luisa,Ripoll,Publicidad,Publicista,Castellano,Dep Publicidad,Cala,Paris,Francia,123qweASD,mripoll,mripoll@JVargas.local,Maria Luisa Ripoll
+JVargas.local/cala/Publicidad,Alexandra Roca,Alexandra,Roca,Publicidad,Publicista,Castellano,Dep Publicidad,Cala,Paris,Francia,123qweASD,aroca,aroca@JVargas.local,Alexandra Roca
+JVargas.local/cala/Publicidad,Aina Gispert,Aina,Gispert,Publicidad,Publicista,Castellano,Dep Publicidad,Cala,Paris,Francia,123qweASD,agispert,agispert@JVargas.local,Aina Gispert
+JVargas.local/cala/Publicidad,Raquel Sabater,Raquel,Sabater,Publicidad,Publicista,Castellano,Dep Publicidad,Cala,Paris,Francia,123qweASD,rsabater,rsabater@JVargas.local,Raquel Sabater
+JVargas.local/cala/Publicidad,Teresa Oliver,Teresa,Oliver,Publicidad,Publicista,Castellano,Dep Publicidad,Cala,Paris,Francia,123qweASD,toliver,toliver@JVargas.local,Teresa Oliver
+JVargas.local/cala/Publicidad,Barbara Sard,Barbara,Sard,Publicidad,Publicista,Castellano,Dep Publicidad,Cala,Paris,Francia,123qweASD,bsard,bsard@JVargas.local,Barbara Sard
+JVargas.local/cala/Publicidad,Biel Ayala,Biel,Ayala,Publicidad,Publicista,Castellano,Dep Publicidad,Cala,Paris,Francia,123qweASD,bayala,bayala@JVargas.local,Biel Ayala
+JVargas.local/cala/Publicidad,Clara Balzola,Clara,Balzola,Publicidad,Publicista,Castellano,Dep Publicidad,Cala,Paris,Francia,123qweASD,cbalzola,cbalzola@JVargas.local,Clara Balzola
+JVargas.local/cala/Publicidad,Carles Amer,Carles,Amer,Publicidad,Publicista,Castellano,Dep Publicidad,Cala,Paris,Francia,123qweASD,camer,camer@JVargas.local,Carles Amer
+JVargas.local/cala/Publicidad,Bartomeu Alberti,Bartomeu,Alberti,Publicidad,Publicista,Castellano,Dep Publicidad,Cala,Paris,Francia,123qweASD,balberti,balberti@JVargas.local,Bartomeu Alberti
+JVargas.local/cala/Publicidad,Jasmine Pocket,Jasmine,Pocket,Publicidad,Publicista,Castellano,Dep Publicidad,Cala,Paris,Francia,123qweASD,jpocket,jpocket@JVargas.local,Jasmine Pocket
+JVargas.local/cala/Publicidad,Emilia Alemany,Emilia,Alemany,Publicidad,Publicista,Informatica,Dep Publicidad,Cala,Paris,Francia,123qweASD,ealemany,ealemany@JVargas.local,Emilia Alemany
+JVargas.local/cala/Ventas,Petra Almansa,Petra,Almansa,Ventas,Vendedor,Informatica,Dep Ventas,Cala,Paris,Francia,123qweASD,palmansa,palmansa@JVargas.local,Petra Almansa
+JVargas.local/cala/Ventas,Josep Acebes,Josep,Acebes,Ventas,Vendedor,Informatica,Dep Ventas,Cala,Paris,Francia,123qweASD,jacebes,jacebes@JVargas.local,Josep Acebes
+JVargas.local/cala/Ventas,Onofre Ballester,Onofre,Ballester,Ventas,Vendedor,Informatica,Dep Ventas,Cala,Paris,Francia,123qweASD,oballester,oballester@JVargas.local,Onofre Ballester
+JVargas.local/cala/Ventas,Maria Barranco,Maria,Barranco,Ventas,Vendedor,Informatica,Dep Ventas,Cala,Bruselas,Belgica,123qweASD,mbarranco,mbarranco@JVargas.local,Maria Barranco
+JVargas.local/cala/Ventas,Sara Becara,Sara,Becara,Ventas,Vendedor,Informatica,Dep Ventas,Cala,Bruselas,Belgica,123qweASD,sbecara,sbecara@JVargas.local,Sara Becara
+JVargas.local/cala/Ventas,Denis Rainbow,Denis,Rainbow,Ventas,Vendedor,Informatica,Dep Ventas,Cala,Bruselas,Belgica,123qweASD,drainbow,drainbow@JVargas.local,Denis Rainbow
+JVargas.local/cala/Ventas,Silvia Record,Silvia,Record,Ventas,Vendedor,Informatica,Dep Ventas,Cala,Bruselas,Belgica,123qweASD,srecord,srecord@JVargas.local,Silvia Record
+JVargas.local/cala/Ventas,Elizabeth Adame,Elizabeth,Adame,Ventas,Vendedor,Informatica,Dep Ventas,Cala,Bruselas,Belgica,123qweASD,eadame,eadame@JVargas.local,Elizabeth Adame
+JVargas.local/cala/Ventas,Catalina Mut,Catalina,Mut,Ventas,Vendedor,Informatica,Dep Ventas,Cala,Bruselas,Belgica,123qweASD,cmut,cmut@JVargas.local,Catalina Mut

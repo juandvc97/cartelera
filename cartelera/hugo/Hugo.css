@@ -1,0 +1,88 @@
+body{
+	/* Imatge de fons de la pàgina */
+	background-image:url('../img/fons.jpg');
+	text-align: center;
+
+
+}
+
+#main{
+			width:900px;
+			margin:auto;
+			padding-left: 60px;
+			background-image:url('../img/fons_pelis.png');
+}
+
+#list-films{
+	text-align:left;
+	/*padding-left:40px;*/
+}
+
+/* Propietats del títol de la pàgina */
+h1{
+	font:bold italic 20px Arial;
+	color:#ffffff;
+	background:url('../img/palomita.png') no-repeat 7px 7px;
+	padding: 10px 0px 10px 55px;
+	background-color:#083256;
+	
+	margin:0px 0px 0px 0px;
+}
+h2{
+	margin-top: 0px;
+	
+}
+
+/* classe de l'etiqueta bloc de cada pel·lícula */
+.pelicula{
+	 height: 450px;
+	 text-align: left;
+	 background-color: #ffffff;
+	 padding:5px;
+	 margin:5px;
+}
+.img-hugo{
+    padding-left:270px;
+	background:url("peli_2.jpg") no-repeat center left;
+	background-size: 260px 400px;
+	min-height:120px;
+	margin-top: 0mm;
+
+}
+.box1{
+	width: 260px;
+	background-color: rgb(228, 230, 134);
+	text-align: center;
+	color:#083256;
+	border-color: red;
+}
+hr{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+/* Propietats del títol de la pel·lícula */
+.pelicula h2{
+	padding:0;
+	padding-top:10px;
+	margin-bottom: 30px;
+	font:bold 16px Arial;
+	color:#083256;
+	background-color: rgb(230, 230, 230);
+	
+}
+/* Propietats de la descripció pel·lícula */
+.pelicula p{
+	padding:0;
+	margin:3px;
+	font:normal 14px Arial;
+	color:#083256;
+	padding-bottom:20px;
+}
+/* Propietats dels enllaços */
+.pelicula a{
+	color:blue;
+}
+.pelicula a:hover{
+	color:orange;
+	font:normal 15px Arial;
+}
